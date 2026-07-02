@@ -243,7 +243,7 @@ These are not yet implemented and will be addressed in the next phase:
 
 - **`any_mcp_client.py`** — concrete MCP client implementation, waiting on MCP server selection
 - **LLM system prompt for the Search Agent** — not yet finalized
-- **Phase 2 and Phase 3** — to be re-planned after Phase 1 is proven; the original phase definitions no longer cleanly apply after the N8N architecture pivot
+- **Phase 2 and Phase 3** — to be re-planned after Phase 1 is proven
 
 ---
 
